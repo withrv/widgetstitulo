@@ -1,0 +1,14 @@
+<div id="promo-verano">
+  <h2>Promo de Verano</h2>
+  <p>¡Aprovecha nuestros descuentos!</p> 
+</div>
+
+<script>
+  // Selecciona el elemento del widget
+  var widget = document.getElementById("promo-verano");
+
+  // Agrega un borde con colores al widget
+  widget.style.border = "5px solid #FFD700"; // Color dorado
+  widget.style.padding = "10px";
+  widget.style.textAlign = "center"; 
+</script>
