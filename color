@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Promoción de Verano</title>
+<style>
+  h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Arial Black', sans-serif;
+    background: linear-gradient(to right, #f2994a, #f2c94c, #6fcf97, #56ccf2, #bb6bd9);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: animate 5s linear infinite;
+  }
+
+  @keyframes animate {
+    0% {
+      background-position: 0 0;
+    }
+    100% {
+      background-position: 500px 0;
+    }
+  }
+</style>
+</head>
+<body>
+
+<h1>Promoción de Verano</h1>
+
+</body>
+</html>
